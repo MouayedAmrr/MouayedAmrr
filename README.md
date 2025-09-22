@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Mouayed Amr, and I'm a Flutter developer and senior  SW engineering student.</h2>
+<h1 align="center">Hi, I'm Mouayed Amr</h1>
+
+###
+
+<h1 align="center">Flutter Developer | Senior SW Engineering Student</h1>
 
 ###
 
